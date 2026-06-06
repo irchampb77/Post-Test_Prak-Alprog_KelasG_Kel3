@@ -138,6 +138,23 @@ Ircham bertanggung jawab pada bagian distribusi data. Analisis ini digunakan unt
 
 </details>
 
+<details>
+<summary><strong>Annas Wicaksono - Kategori E: Infografis & Sintesis</strong></summary>
+
+### Deskripsi Pekerjaan
+
+Annas bertanggung jawab pada bagian pembuatan infografis dan sintesis visualisasi. Pekerjaan ini menggabungkan seluruh hasil analisis dari kategori A hingga D menjadi satu kesatuan visualisasi yang komprehensif dan menarik. Annas juga melakukan analisis mendalam terhadap setiap grafik yang dihasilkan oleh tim, memberikan interpretasi visual, serta merancang elemen desain grafis yang memudahkan audiens memahami pola dan insight dari data laporan panggilan.
+
+| Bagian | Detail |
+| --- | --- |
+| Kategori | Kategori E - Infografis & Sintesis |
+| Notebook | `posttest_kel3_infografis.ipynb` |
+| Fokus | Menggabungkan semua visualisasi, menganalisis insight dari grafik, dan membuat desain visual yang menarik. |
+| Visualisasi | Dashboard infografis, combined charts, annotated visualizations |
+| Manfaat | Memberikan gambaran menyeluruh dalam satu tampilan dan meningkatkan daya tarik visual untuk audiens. |
+
+</details>
+
 ## Ringkasan Kategori
 
 | Kategori | Tema Analisis | Visualisasi | Tujuan |
@@ -146,6 +163,7 @@ Ircham bertanggung jawab pada bagian distribusi data. Analisis ini digunakan unt
 | Kategori B | Tren/Filter | Line chart | Melihat perubahan data bulanan pada tahun tertentu. |
 | Kategori C | Korelasi | Scatter plot | Melihat hubungan antar variabel layanan. |
 | Kategori D | Distribusi | Histogram dan boxplot | Melihat persebaran data dan kemungkinan outlier. |
+| Kategori E | Infografis & Sintesis | Dashboard infografis | Menggabungkan semua analisis dan membuat visualisasi yang menarik audiens. |
 
 ## Detail Notebook
 
@@ -155,6 +173,7 @@ Ircham bertanggung jawab pada bagian distribusi data. Analisis ini digunakan unt
 | `posttest_kel3_kategoriB.ipynb` | Analisis tren bulanan konsultasi dokter tahun 2022. |
 | `posttest_kel3_kategoriC.ipynb` | Analisis korelasi antar variabel layanan. |
 | `posttest_kel3_kategoriD.ipynb` | Analisis distribusi data menggunakan histogram dan boxplot. |
+| `posttest_kel3_infografis.ipynb` | Sintesis dan infografis dari seluruh analisis kategori A-D. |
 | `PostTest.ipynb` | Notebook utama atau gabungan pengerjaan post test. |
 
 ## Struktur File
